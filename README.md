@@ -29,6 +29,6 @@ I’m a teen developer building my AI & Game Dev path step by step.
 
 ###  Get in Touch
 I’m building step by step. If you want to say hi or ask for code help — drop an issue or Email!  
-[![Email](https://img.shields.io/badge/Email-DGhaus-red?style=for-the-badge&logo=gmail)](mailto:yourname@example.com)
+[![Email](https://img.shields.io/badge/Email-DGhaus-red?style=for-the-badge&logo=gmail)](mailto:dghaus437@gmail.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DGhaus&style=flat-square)
