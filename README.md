@@ -13,7 +13,7 @@ I’m a teen developer building my AI & Game Dev path step by step.
 
 ###  Projects & Progress
 - [Enhanced Calculator](https://github.com/DGhaus/Enhanced-Calculator) — CLI tool with history & input safety.
-- [Socket Game](https://github.com/DGhaus/guessing-game) — (Socket) a Classic number guessing game.
+- [Socket Game](https://github.com/DGhaus/Socket) — (Socket) a Classic number guessing game.
 - [Temperature converter](https://github.com/DGhaus/Temperature-converter-C-F-K-) — Temperature Converter to convert between Celcius Fahrenheit Kelvin
 
 ---
